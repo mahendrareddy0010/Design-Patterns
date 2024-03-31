@@ -1,4 +1,4 @@
-package behaviouralPatterns.observerPattern;
+package behavioural.observerPattern;
 
 public class TemparatureDisplay implements Observer {
     private Subject subject;

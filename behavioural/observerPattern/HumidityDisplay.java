@@ -1,4 +1,4 @@
-package behaviouralPatterns.observerPattern;
+package behavioural.observerPattern;
 
 public class HumidityDisplay implements Observer {
     private Subject subject;

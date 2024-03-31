@@ -1,4 +1,4 @@
-package behaviouralPatterns.observerPattern;
+package behavioural.observerPattern;
 
 public interface Subject {
     public void addOserver(Observer obs);

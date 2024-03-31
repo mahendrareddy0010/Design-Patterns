@@ -1,4 +1,4 @@
-package behaviouralPatterns.statePattern;
+package behavioural.statePattern;
 
 public interface State {
     public void publish(Document doc);

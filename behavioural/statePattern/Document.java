@@ -1,4 +1,4 @@
-package behaviouralPatterns.statePattern;
+package behavioural.statePattern;
 
 public class Document {
     State state;
