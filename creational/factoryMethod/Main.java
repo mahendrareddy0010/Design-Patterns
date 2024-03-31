@@ -11,5 +11,6 @@ public class Main {
         rectangle.draw();
         triangle.draw();
         pentagon.draw();
+        
     }
 }
