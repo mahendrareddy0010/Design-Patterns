@@ -16,8 +16,10 @@ We can only change the inteface methods only, we don't add new methods.
             </div>
         <div>
 
-4. Python closures are decorators
+4. Python closures are decorators.
+5. Java aanotations also add new functionality. Almost all code written by us using frameworks like Spring, JUnit, Express,.. is decorator pattern.
+    We just create Basic concrete interface, framwork is decorate it and gives results.
+    If we go by this, Everything is decorated by some unobservable thing.
 5. Game Development where we can add new features or change the content based on the state of the game.
     This is useful for handling appearance (UI) just like web design use case.
     But logic can be handled by `State Pattern`.
-    
