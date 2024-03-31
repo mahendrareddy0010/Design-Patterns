@@ -1,7 +1,9 @@
-package behavioural.observerPattern;
+package behavioural.observerPattern.subjects;
 
 import java.util.HashSet;
 import java.util.Set;
+
+import behavioural.observerPattern.observers.Observer;
 
 public class WeatherStation implements Subject {
     private Set<Observer> observers;

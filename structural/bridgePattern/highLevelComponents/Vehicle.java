@@ -1,4 +1,6 @@
-package structural.bridgePattern;
+package structural.bridgePattern.highLevelComponents;
+
+import structural.bridgePattern.implementationComponents.Transmission;
 
 public abstract class Vehicle {
     Transmission transmission;

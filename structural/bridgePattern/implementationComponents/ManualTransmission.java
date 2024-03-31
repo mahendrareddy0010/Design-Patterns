@@ -1,4 +1,4 @@
-package structural.bridgePattern;
+package structural.bridgePattern.implementationComponents;
 
 public class ManualTransmission implements Transmission {
 

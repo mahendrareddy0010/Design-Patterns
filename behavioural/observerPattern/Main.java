@@ -2,6 +2,11 @@ package behavioural.observerPattern;
 
 import java.util.Random;
 
+import behavioural.observerPattern.observers.HumidityDisplay;
+import behavioural.observerPattern.observers.PressureDisplay;
+import behavioural.observerPattern.observers.TemparatureDisplay;
+import behavioural.observerPattern.subjects.WeatherStation;
+
 public class Main {
     public static void main(String[] args) throws InterruptedException {
         Random random = new Random();

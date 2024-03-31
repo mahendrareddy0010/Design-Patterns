@@ -1,4 +1,6 @@
-package behavioural.observerPattern;
+package behavioural.observerPattern.observers;
+
+import behavioural.observerPattern.subjects.Subject;
 
 public class TemparatureDisplay implements Observer {
     private Subject subject;
