@@ -1,3 +1,5 @@
+package behavioural.templatePattern;
+
 public abstract class ReportGenerator {
     public abstract String collectData();
     public abstract String processData(String data);

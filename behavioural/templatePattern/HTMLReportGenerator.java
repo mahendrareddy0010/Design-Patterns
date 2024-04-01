@@ -1,3 +1,5 @@
+package behavioural.templatePattern;
+
 public class HTMLReportGenerator extends ReportGenerator{
     
     @Override

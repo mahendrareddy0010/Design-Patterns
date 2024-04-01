@@ -1,3 +1,5 @@
+package behavioural.templatePattern;
+
 public class Main {
     public static void main(String[] args) {
         ReportGenerator pdfReportGenerator = new PDFReportGenerator();

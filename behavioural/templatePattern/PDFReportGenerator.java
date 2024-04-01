@@ -1,3 +1,5 @@
+package behavioural.templatePattern;
+
 public class PDFReportGenerator extends ReportGenerator{
     
     @Override
