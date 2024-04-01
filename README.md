@@ -1,0 +1,1 @@
+Each Pattern repository has README.md file which gives a summary/some thoughts.
