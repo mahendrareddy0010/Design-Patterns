@@ -14,7 +14,7 @@ public class Main {
 
         Iterator bookIterator = bookList.createIterator();
         while (bookIterator.hasNext()) {
-            System.out.println(bookIterator.next());
+            System.out.println((Book)bookIterator.next());
         }
     }
 }
